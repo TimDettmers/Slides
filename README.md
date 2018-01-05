@@ -1,2 +1,2 @@
 # Slides
-Slides from varies talks. 
+Slides from various talks. 
